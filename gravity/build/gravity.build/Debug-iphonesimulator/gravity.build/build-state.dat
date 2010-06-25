@@ -1,0 +1,350 @@
+Tgravity
+v7
+r0
+t298255777.866322
+cCheck dependencies
+cProcessInfoPlistFile /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/Info.plist gravity-Info.plist
+cCompileXIB /Users/dev/Documents/Code/gravity/MainWindow.xib
+cProcessPCH /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch.gch gravity_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/main.o /Users/dev/Documents/Code/gravity/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/gravityAppDelegate.o /Users/dev/Documents/Code/gravity/Classes/gravityAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/middleViewController.o /Users/dev/Documents/Code/gravity/middleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/fingerModel.o /Users/dev/Documents/Code/gravity/fingerModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/movableObjectModel.o /Users/dev/Documents/Code/gravity/movableObjectModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity normal i386
+cGenerateDSYMFile /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app.dSYM /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity
+cTouch /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/dev/Documents/Code/gravity/Classes/gravityAppDelegate.h
+c000000004C15551C0000000000000153
+t1276466460
+s339
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/gravity/Classes/gravityAppDelegate.m
+c000000004C15551C0000000000000228
+t1276466460
+s552
+i"gravityAppDelegate.h"
+
+N/Users/dev/Documents/Code/gravity/LeftViewController.h
+c000000004C183C5B0000000000000130
+t1276656731
+s304
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/gravity/LeftViewController.m
+c000000004C183C040000000000000626
+t1276656644
+s1574
+i"LeftViewController.h"
+
+N/Users/dev/Documents/Code/gravity/MainWindow.xib
+c000000004C1558E70000000000004971
+t1276467431
+s18801
+
+N/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app
+t1276562977
+s204
+
+N/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app.dSYM
+t1276562840
+s102
+
+N/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/Info.plist
+t1276562977
+s724
+
+N/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/MainWindow.nib
+t1276467438
+s1742
+
+N/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/PkgInfo
+t1276562977
+s8
+
+N/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity
+t1276562840
+s20776
+
+N/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/middle.nib
+t2
+s0
+
+N/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/LeftViewController.o
+t2
+s0
+
+N/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/fingerModel.o
+t1276562764
+s6856
+
+N/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/gravity.LinkFileList
+c000000004C1558EE000000000000027C
+t1276467438
+s636
+
+N/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/gravityAppDelegate.o
+t1276466871
+s17308
+
+N/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/main.o
+t1276466871
+s5940
+
+N/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/middle.o
+t2
+s0
+
+N/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/middleViewController.o
+t1276562840
+s30428
+
+N/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/movableObjectModel.o
+t1276562730
+s7608
+
+N/Users/dev/Documents/Code/gravity/fingerModel.h
+c000000004C18358D0000000000000121
+t1276654989
+s289
+i<Foundation/Foundation.h>
+
+N/Users/dev/Documents/Code/gravity/fingerModel.m
+c000000004C155DF300000000000000F5
+t1276468723
+s245
+i"fingerModel.h"
+
+N/Users/dev/Documents/Code/gravity/gravity_Prefix.pch
+c000000004C15551C00000000000000B7
+t1276466460
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/gravity/main.m
+c000000004C15551C0000000000000175
+t1276466460
+s373
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/gravity/middle.h
+c000000004C15558A00000000000000DC
+t1276466570
+s220
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/gravity/middle.m
+c000000004C15558A0000000000000602
+t1276466570
+s1538
+i"middle.h"
+
+N/Users/dev/Documents/Code/gravity/middle.xib
+c000000004C155567000000000000184D
+t1276466535
+s6221
+
+N/Users/dev/Documents/Code/gravity/middleViewController.h
+c000000004C18365B00000000000001B8
+t1276655195
+s440
+i<UIKit/UIKit.h>
+i"movableObjectModel.h"
+
+N/Users/dev/Documents/Code/gravity/middleViewController.m
+c000000004C1555B0000000000000062C
+t1276466608
+s1580
+i"middleViewController.h"
+
+N/Users/dev/Documents/Code/gravity/movableObjectModel.h
+c000000004C16CD28000000000000013D
+t1276562728
+s317
+i<Foundation/Foundation.h>
+
+N/Users/dev/Documents/Code/gravity/movableObjectModel.m
+c000000004C155E9E000000000000011C
+t1276468894
+s284
+i"movableObjectModel.h"
+
+N/var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch.gch
+t1276466871
+s13026768
+
+Ngravity-Info.plist
+c000000004C16CE21000000000000043D
+t1276562977
+s1085
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298255777#298255777#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/LeftViewController.o /Users/dev/Documents/Code/gravity/LeftViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/fingerModel.o /Users/dev/Documents/Code/gravity/fingerModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298255564.949144
+e298255564.996548
+r1
+xCompileC
+xbuild/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/fingerModel.o
+x/Users/dev/Documents/Code/gravity/fingerModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dev/Documents/Code/gravity/fingerModel.m:17: warning: incomplete implementation of class 'fingerModel'
+o/Users/dev/Documents/Code/gravity/fingerModel.m:17: warning: method definition for '-updateLocationWithX:Y:' not found
+lSLF07#2@55"Compile /Users/dev/Documents/Code/gravity/fingerModel.m298255564#298255564#0(229"/Users/dev/Documents/Code/gravity/fingerModel.m:17: warning: incomplete implementation of class 'fingerModel'/Users/dev/Documents/Code/gravity/fingerModel.m:17: warning: method definition for '-updateLocationWithX:Y:' not found2(22@48"Incomplete implementation of class 'fingerModel'298255564#0#110#0(6@47"/Users/dev/Documents/Code/gravity/fingerModel.m298161523#17#0#17#0#38"incomplete implementation of class '*'0(22@57"Method definition for '-updateLocationWithX:Y:' not found298255564#110#119#0(6@47"/Users/dev/Documents/Code/gravity/fingerModel.m298161523#17#0#17#0#35"method definition for '*' not found0(0#0#47"/Users/dev/Documents/Code/gravity/fingerModel.m4300911832#1818"    cd /Users/dev/Documents/Code/gravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-generated-files.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-own-target-headers.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-all-target-headers.hmap -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-project-headers.hmap -F/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources/i386 -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch -c /Users/dev/Documents/Code/gravity/fingerModel.m -o /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/fingerModel.o0#
+
+CCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/gravityAppDelegate.o /Users/dev/Documents/Code/gravity/Classes/gravityAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298159671.547942
+e298159671.634003
+r1
+xCompileC
+xbuild/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/gravityAppDelegate.o
+x/Users/dev/Documents/Code/gravity/Classes/gravityAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/dev/Documents/Code/gravity/Classes/gravityAppDelegate.m298159671#298159671#0(0"0(0#0#62"/Users/dev/Documents/Code/gravity/Classes/gravityAppDelegate.m4300911832#1840"    cd /Users/dev/Documents/Code/gravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-generated-files.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-own-target-headers.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-all-target-headers.hmap -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-project-headers.hmap -F/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources/i386 -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch -c /Users/dev/Documents/Code/gravity/Classes/gravityAppDelegate.m -o /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/gravityAppDelegate.o0#
+
+CCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/main.o /Users/dev/Documents/Code/gravity/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298159671.546490
+e298159671.595960
+r1
+xCompileC
+xbuild/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/main.o
+x/Users/dev/Documents/Code/gravity/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/dev/Documents/Code/gravity/main.m298159671#298159671#0(0"0(0#0#40"/Users/dev/Documents/Code/gravity/main.m4300911832#1804"    cd /Users/dev/Documents/Code/gravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-generated-files.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-own-target-headers.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-all-target-headers.hmap -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-project-headers.hmap -F/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources/i386 -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch -c /Users/dev/Documents/Code/gravity/main.m -o /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/main.o0#
+
+CCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/middle.o /Users/dev/Documents/Code/gravity/middle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/middleViewController.o /Users/dev/Documents/Code/gravity/middleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298255640.176176
+e298255640.220665
+r1
+xCompileC
+xbuild/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/middleViewController.o
+x/Users/dev/Documents/Code/gravity/middleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/dev/Documents/Code/gravity/middleViewController.m298255640#298255640#0(0"0(0#0#56"/Users/dev/Documents/Code/gravity/middleViewController.m4300911832#1836"    cd /Users/dev/Documents/Code/gravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-generated-files.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-own-target-headers.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-all-target-headers.hmap -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-project-headers.hmap -F/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources/i386 -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch -c /Users/dev/Documents/Code/gravity/middleViewController.m -o /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/middleViewController.o0#
+
+CCompileC build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/movableObjectModel.o /Users/dev/Documents/Code/gravity/movableObjectModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298255530.056328
+e298255530.222914
+r1
+xCompileC
+xbuild/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/movableObjectModel.o
+x/Users/dev/Documents/Code/gravity/movableObjectModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/dev/Documents/Code/gravity/movableObjectModel.m298255530#298255530#0(0"0(0#0#54"/Users/dev/Documents/Code/gravity/movableObjectModel.m4300911832#1832"    cd /Users/dev/Documents/Code/gravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-generated-files.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-own-target-headers.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-all-target-headers.hmap -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-project-headers.hmap -F/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources/i386 -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch -c /Users/dev/Documents/Code/gravity/movableObjectModel.m -o /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/movableObjectModel.o0#
+
+CCompileXIB /Users/dev/Documents/Code/gravity/MainWindow.xib
+s298160238.473820
+e298160238.746410
+r1
+xCompileXIB
+x/Users/dev/Documents/Code/gravity/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib298160238#298160238#0(0"0(0#0#48"/Users/dev/Documents/Code/gravity/MainWindow.xib4300911832#467"    cd /Users/dev/Documents/Code/gravity    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/MainWindow.nib /Users/dev/Documents/Code/gravity/MainWindow.xib0#
+
+CCompileXIB /Users/dev/Documents/Code/gravity/middle.xib
+r0
+
+CGenerateDSYMFile /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app.dSYM /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity
+s298255640.610229
+e298255640.644689
+r1
+xGenerateDSYMFile
+x/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app.dSYM
+x/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/gravity.app.dSYM build/Debug-iphonesimulator/gravity.app/gravity298255640#298255640#0(0"0(0#0#81"/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity4300911832#368"    cd /Users/dev/Documents/Code/gravity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity -o /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app.dSYM0#
+
+CLd /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity normal i386
+s298255640.220754
+e298255640.610121
+r1
+xLd
+x/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity
+xnormal
+xi386
+lSLF07#2@86"Link /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity298255640#298255640#0(0"0(0#0#0"4300911832#839"    cd /Users/dev/Documents/Code/gravity    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator -F/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator -filelist /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/Objects-normal/i386/gravity.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/gravity0#
+
+CProcessInfoPlistFile /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/Info.plist gravity-Info.plist
+s298255777.856234
+e298255777.863161
+r1
+xProcessInfoPlistFile
+x/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/Info.plist
+xgravity-Info.plist
+lSLF07#2@26"Process gravity-Info.plist298255777#298255777#0(0"0(0#0#52"/Users/dev/Documents/Code/gravity/gravity-Info.plist4300911832#464"    cd /Users/dev/Documents/Code/gravity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility gravity-Info.plist -genpkginfo /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app/Info.plist0#
+
+CProcessPCH /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch.gch gravity_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298159670.796317
+e298159671.546343
+r1
+xProcessPCH
+x/var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch.gch
+xgravity_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile gravity_Prefix.pch298159670#298159671#0(0"0(0#0#52"/Users/dev/Documents/Code/gravity/gravity_Prefix.pch4300911832#1701"    cd /Users/dev/Documents/Code/gravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-generated-files.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-own-target-headers.hmap -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-all-target-headers.hmap -iquote /Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/gravity-project-headers.hmap -F/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources/i386 -I/Users/dev/Documents/Code/gravity/build/gravity.build/Debug-iphonesimulator/gravity.build/DerivedSources -c /Users/dev/Documents/Code/gravity/gravity_Prefix.pch -o /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gravity_Prefix-ehopoibltxooltgdugflthpduswu/gravity_Prefix.pch.gch0#
+
+CTouch /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app
+s298255777.863807
+e298255777.866269
+r1
+xTouch
+x/Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app
+lSLF07#2@79"Touch /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app298255777#298255777#0(0"0(0#0#0"4300911832#268"    cd /Users/dev/Documents/Code/gravity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dev/Documents/Code/gravity/build/Debug-iphonesimulator/gravity.app0#
+
