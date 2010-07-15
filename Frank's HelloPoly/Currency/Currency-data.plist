@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>US Dollar (USD)</string>
+		<key>continent</key>
+		<string>North America</string>
+		<key>conversionFactor</key>
+		<real>1</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Japanese Yen (JPY)</string>
+		<key>continent</key>
+		<string>Asia</string>
+		<key>conversionFactor</key>
+		<real>0.0113</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Indian Rupee (INR)</string>
+		<key>continent</key>
+		<string>Asia</string>
+		<key>conversionFactor</key>
+		<real>0.0214</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Euro (EUR)</string>
+		<key>continent</key>
+		<string>Europe</string>
+		<key>conversionFactor</key>
+		<real>1.2544</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Canadian Dollar (CAD)</string>
+		<key>continent</key>
+		<string>North America</string>
+		<key>conversionFactor</key>
+		<real>1.0334</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>US Dollar (USD)</string>
+		<key>continent</key>
+		<string>North America</string>
+		<key>conversionFactor</key>
+		<string>1.00</string>
+	</dict>
+</array>
+</plist>
