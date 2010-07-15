@@ -1,0 +1,675 @@
+TCurrency
+v7
+r0
+t300858447.626507
+cCheck dependencies
+cProcessInfoPlistFile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Info.plist Currency-Info.plist
+cCompileXIB /Users/dev/Documents/Code/Currency/MainWindow.xib
+cCompileXIB /Users/dev/Documents/Code/Currency/Classes/homeViewController.xib
+cCompileXIB /Users/dev/Documents/Code/Currency/Classes/resultViewController.xib
+cCopyPlistFile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency-data.plist Currency-data.plist
+cProcessPCH /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch.gch Currency_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/main.o /Users/dev/Documents/Code/Currency/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/CurrencyAppDelegate.o /Users/dev/Documents/Code/Currency/Classes/CurrencyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/homeViewController.o /Users/dev/Documents/Code/Currency/Classes/homeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/resultViewController.o /Users/dev/Documents/Code/Currency/Classes/resultViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/locationTableViewController.o /Users/dev/Documents/Code/Currency/Classes/../locationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/recentsTableViewController.o /Users/dev/Documents/Code/Currency/Classes/../recentsTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/currency.o /Users/dev/Documents/Code/Currency/Classes/../currency.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/pair.o /Users/dev/Documents/Code/Currency/Classes/pair.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency normal i386
+cGenerateDSYMFile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app.dSYM /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency
+cTouch /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2A26F30000000000000132
+t1277830899
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/dev/Documents/Code/Currency/Classes/../currency.h
+c000000004C3CEE040000000000000283
+t1279061508
+s643
+i<Foundation/Foundation.h>
+
+N/Users/dev/Documents/Code/Currency/Classes/../currency.m
+c000000004C3E7D8B0000000000000382
+t1279163787
+s898
+i"currency.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/../locationTableViewController.m
+c000000004C3E84CD000000000000186C
+t1279165645
+s6252
+i"locationTableViewController.h"
+i"resultViewController.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/../recentsTableViewController.m
+c000000004C3A694E0000000000001275
+t1278896462
+s4725
+i"recentsTableViewController.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/CurrencyAppDelegate.h
+c000000004C37A50200000000000001E8
+t1278715138
+s488
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/Classes/CurrencyAppDelegate.m
+c000000004C2BCEF70000000000000C45
+t1277939447
+s3141
+i"CurrencyAppDelegate.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/FirstViewController.h
+c000000004C2BCEF700000000000000F7
+t1277939447
+s247
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/Classes/FirstViewController.m
+c000000004C2BCEF700000000000005BE
+t1277939447
+s1470
+i"FirstViewController.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/home.h
+c000000004C375CD100000000000000D8
+t1278696657
+s216
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/Classes/home.m
+c000000004C375CD10000000000000584
+t1278696657
+s1412
+i"home.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/home.xib
+c000000004C3762030000000000006BE6
+t1278697987
+s27622
+
+N/Users/dev/Documents/Code/Currency/Classes/homeViewContoller.h
+c000000004C38FB080000000000000150
+t1278802696
+s336
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/Classes/homeViewController.m
+c000000004C3A6808000000000000060A
+t1278896136
+s1546
+i"homeViewContoller.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/homeViewController.xib
+c000000004C3762030000000000006BE6
+t1278697987
+s27622
+
+N/Users/dev/Documents/Code/Currency/Classes/pair.h
+c000000004C3D7C5000000000000001E9
+t1279097936
+s489
+i<Foundation/Foundation.h>
+i"currency.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/pair.m
+c000000004C3E7DC600000000000001F9
+t1279163846
+s505
+i"pair.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/result.h
+c000000004C37630500000000000000DC
+t1278698245
+s220
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/Classes/result.m
+c000000004C376305000000000000058A
+t1278698245
+s1418
+i"result.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/result.xib
+c000000004C378297000000000000599A
+t1278706327
+s22938
+
+N/Users/dev/Documents/Code/Currency/Classes/resultViewController.h
+c000000004C3D68A6000000000000027D
+t1279092902
+s637
+i<UIKit/UIKit.h>
+i"pair.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/resultViewController.m
+c000000004C3D68B7000000000000068A
+t1279092919
+s1674
+i"resultViewController.h"
+
+N/Users/dev/Documents/Code/Currency/Classes/resultViewController.xib
+c000000004C378297000000000000599A
+t1278706327
+s22938
+
+N/Users/dev/Documents/Code/Currency/Currency-data.plist
+c000000004C3E7EA400000000000004D5
+t1279164068
+s1237
+
+N/Users/dev/Documents/Code/Currency/Currency_Prefix.pch
+c000000004C2BCEF700000000000000B9
+t1277939447
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/FirstView.xib
+c000000004C2BCEF700000000000049D2
+t1277939447
+s18898
+
+N/Users/dev/Documents/Code/Currency/MainWindow.xib
+c000000004C3785DE000000000000ABF6
+t1278707166
+s44022
+
+N/Users/dev/Documents/Code/Currency/SecondView.xib
+c000000004C2BCEF700000000000049D0
+t1277939447
+s18896
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/Currency.LinkFileList
+c000000004C37D890000000000000041E
+t1278728336
+s1054
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/CurrencyAppDelegate.o
+t1278715138
+s51164
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/FirstViewController.o
+t1277939454
+s34348
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/currency.o
+t1279163849
+s14204
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/home.o
+t1278698002
+s34232
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/homeViewController.o
+t1278896137
+s35236
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/locationTableViewController.o
+t1279165647
+s55140
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/main.o
+t1277939454
+s6296
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/pair.o
+t1279163849
+s10944
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/recentsTableViewController.o
+t1278896563
+s44216
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/result.o
+t2
+s0
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/resultViewController.o
+t1279097938
+s38360
+
+N/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app
+t1279165647
+s408
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app.dSYM
+t1279165647
+s102
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency
+t1279165647
+s41204
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency-data.plist
+t1279164072
+s342
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/FirstView.nib
+t1277939453
+s1707
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Info.plist
+t1277939452
+s595
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/MainWindow.nib
+t1278707187
+s3045
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/PkgInfo
+t1277939452
+s8
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/SecondView.nib
+t1277939453
+s1706
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/home.nib
+t1278698001
+s2749
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/homeViewController.nib
+t1278707187
+s2755
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/result.nib
+t2
+s0
+
+N/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/resultViewController.nib
+t1278707187
+s2076
+
+N/Users/dev/Documents/Code/Currency/currency.h
+c000000004C3CEE040000000000000283
+t1279061508
+s643
+i<Foundation/Foundation.h>
+
+N/Users/dev/Documents/Code/Currency/currency.m
+c000000004C37C9F9000000000000027F
+t1278724601
+s639
+i"currency.h"
+
+N/Users/dev/Documents/Code/Currency/locationTableViewController.h
+c000000004C3E7EC900000000000002A2
+t1279164105
+s674
+i<UIKit/UIKit.h>
+i"currency.h"
+i"pair.h"
+
+N/Users/dev/Documents/Code/Currency/locationTableViewController.m
+c000000004C37A5E60000000000001342
+t1278715366
+s4930
+i"locationTableViewController.h"
+
+N/Users/dev/Documents/Code/Currency/main.m
+c000000004C2BCEF70000000000000172
+t1277939447
+s370
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/recentsTableViewController.h
+c000000004C3A692F0000000000000167
+t1278896431
+s359
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/recentsTableViewController.m
+c000000004C37A5900000000000001257
+t1278715280
+s4695
+i"recentsTableViewController.h"
+
+N/Users/dev/Documents/Code/Currency/untitled.h
+c000000004C37899F00000000000000E5
+t1278708127
+s229
+i<UIKit/UIKit.h>
+
+N/Users/dev/Documents/Code/Currency/untitled.m
+c000000004C37899F0000000000001252
+t1278708127
+s4690
+i"untitled.h"
+
+N/var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch.gch
+t1277939454
+s15232016
+
+NCurrency-Info.plist
+c000000004C2BCEF7000000000000038D
+t1277939447
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300858447#300858447#0(0"0(0#1#0"8635624128#0"0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/CurrencyAppDelegate.o /Users/dev/Documents/Code/Currency/Classes/CurrencyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300407938.747501
+e300407938.854675
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/CurrencyAppDelegate.o
+x/Users/dev/Documents/Code/Currency/Classes/CurrencyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/dev/Documents/Code/Currency/Classes/CurrencyAppDelegate.m300407938#300407938#0(0"0(0#0#64"/Users/dev/Documents/Code/Currency/Classes/CurrencyAppDelegate.m8603367872#1915"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/CurrencyAppDelegate.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/CurrencyAppDelegate.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/FirstViewController.o /Users/dev/Documents/Code/Currency/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299632254.139626
+e299632254.196306
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/FirstViewController.o
+x/Users/dev/Documents/Code/Currency/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/dev/Documents/Code/Currency/Classes/FirstViewController.m299632254#299632254#0(0"0(0#0#64"/Users/dev/Documents/Code/Currency/Classes/FirstViewController.m8603184768#1915"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/FirstViewController.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/currency.o /Users/dev/Documents/Code/Currency/Classes/../currency.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300856648.907756
+e300856649.073912
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/currency.o
+x/Users/dev/Documents/Code/Currency/Classes/../currency.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/dev/Documents/Code/Currency/Classes/../currency.m300856648#300856649#0(0"0(0#0#56"/Users/dev/Documents/Code/Currency/Classes/../currency.m7801131177941558272#1896"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/../currency.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/currency.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/currency.o /Users/dev/Documents/Code/Currency/currency.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300417425.239690
+e300417425.291349
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/currency.o
+x/Users/dev/Documents/Code/Currency/currency.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/dev/Documents/Code/Currency/currency.m300417425#300417425#0(0"0(0#0#45"/Users/dev/Documents/Code/Currency/currency.m8621511200#1885"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/currency.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/currency.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/home.o /Users/dev/Documents/Code/Currency/Classes/home.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300390801.577891
+e300390802.063299
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/home.o
+x/Users/dev/Documents/Code/Currency/Classes/home.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/dev/Documents/Code/Currency/Classes/home.m300390801#300390802#0(0"0(0#0#49"/Users/dev/Documents/Code/Currency/Classes/home.m8599655872#1885"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/home.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/home.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/homeViewController.o /Users/dev/Documents/Code/Currency/Classes/homeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300588937.760276
+e300588937.850058
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/homeViewController.o
+x/Users/dev/Documents/Code/Currency/Classes/homeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/dev/Documents/Code/Currency/Classes/homeViewController.m300588937#300588937#0(0"0(0#0#63"/Users/dev/Documents/Code/Currency/Classes/homeViewController.m8621801376#1913"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/homeViewController.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/homeViewController.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/locationTableViewController.o /Users/dev/Documents/Code/Currency/Classes/../locationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300858447.454272
+e300858447.576524
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/locationTableViewController.o
+x/Users/dev/Documents/Code/Currency/Classes/../locationTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/dev/Documents/Code/Currency/Classes/../locationTableViewController.m300858447#300858447#0(0"0(0#0#75"/Users/dev/Documents/Code/Currency/Classes/../locationTableViewController.m8630402752#1934"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/../locationTableViewController.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/locationTableViewController.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/locationTableViewController.o /Users/dev/Documents/Code/Currency/locationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300417425.238668
+e300417425.301219
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/locationTableViewController.o
+x/Users/dev/Documents/Code/Currency/locationTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dev/Documents/Code/Currency/locationTableViewController.m:177: warning: property 'conversionFactors' requires method '-conversionFactors' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dev/Documents/Code/Currency/locationTableViewController.m:177: warning: property 'conversionFactors' requires the method 'setConversionFactors:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@72"Compile /Users/dev/Documents/Code/Currency/locationTableViewController.m300417425#300417425#0(451"/Users/dev/Documents/Code/Currency/locationTableViewController.m:177: warning: property 'conversionFactors' requires method '-conversionFactors' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dev/Documents/Code/Currency/locationTableViewController.m:177: warning: property 'conversionFactors' requires the method 'setConversionFactors:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@142"Property 'conversionFactors' requires method '-conversionFactors' to be defined - use @synthesize, @dynamic or provide a method implementation300417425#0#222#0(6@64"/Users/dev/Documents/Code/Currency/locationTableViewController.m300408166#177#0#177#0#0"0(22@149"Property 'conversionFactors' requires the method 'setConversionFactors:' to be defined - use @synthesize, @dynamic or provide a method implementation300417425#222#229#0(6@64"/Users/dev/Documents/Code/Currency/locationTableViewController.m300408166#177#0#177#0#0"0(0#0#64"/Users/dev/Documents/Code/Currency/locationTableViewController.m8625286272#1923"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/locationTableViewController.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/locationTableViewController.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/main.o /Users/dev/Documents/Code/Currency/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299632254.137283
+e299632254.189669
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/main.o
+x/Users/dev/Documents/Code/Currency/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/dev/Documents/Code/Currency/main.m299632254#299632254#0(0"0(0#0#41"/Users/dev/Documents/Code/Currency/main.m8599053504#1877"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/main.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/pair.o /Users/dev/Documents/Code/Currency/Classes/pair.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300856649.016161
+e300856649.114746
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/pair.o
+x/Users/dev/Documents/Code/Currency/Classes/pair.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/dev/Documents/Code/Currency/Classes/pair.m300856649#300856649#0(0"0(0#0#49"/Users/dev/Documents/Code/Currency/Classes/pair.m8615958464#1885"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/pair.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/pair.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/recentsTableViewController.o /Users/dev/Documents/Code/Currency/Classes/../recentsTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300589362.925949
+e300589363.048921
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/recentsTableViewController.o
+x/Users/dev/Documents/Code/Currency/Classes/../recentsTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/dev/Documents/Code/Currency/Classes/../recentsTableViewController.m300589362#300589363#0(0"0(0#0#74"/Users/dev/Documents/Code/Currency/Classes/../recentsTableViewController.m8626555968#1932"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/../recentsTableViewController.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/recentsTableViewController.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/recentsTableViewController.o /Users/dev/Documents/Code/Currency/recentsTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300408084.326077
+e300408084.446397
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/recentsTableViewController.o
+x/Users/dev/Documents/Code/Currency/recentsTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/dev/Documents/Code/Currency/recentsTableViewController.m300408084#300408084#0(0"0(0#0#63"/Users/dev/Documents/Code/Currency/recentsTableViewController.m8614700256#1921"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/recentsTableViewController.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/recentsTableViewController.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/result.o /Users/dev/Documents/Code/Currency/Classes/result.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/resultViewController.o /Users/dev/Documents/Code/Currency/Classes/resultViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300790738.280860
+e300790738.359734
+r1
+xCompileC
+xbuild/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/resultViewController.o
+x/Users/dev/Documents/Code/Currency/Classes/resultViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/dev/Documents/Code/Currency/Classes/resultViewController.m300790738#300790738#0(0"0(0#0#65"/Users/dev/Documents/Code/Currency/Classes/resultViewController.m8615825632#1917"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -include /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch -c /Users/dev/Documents/Code/Currency/Classes/resultViewController.m -o /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/resultViewController.o0#
+
+CCompileC build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/untitled.o /Users/dev/Documents/Code/Currency/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/dev/Documents/Code/Currency/Classes/home.xib
+s300390801.009050
+e300390801.577563
+r1
+xCompileXIB
+x/Users/dev/Documents/Code/Currency/Classes/home.xib
+lSLF07#2@27"CompileXIB Classes/home.xib300390801#300390801#0(0"0(0#0#51"/Users/dev/Documents/Code/Currency/Classes/home.xib8602216384#555"    cd /Users/dev/Documents/Code/Currency    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/home.nib /Users/dev/Documents/Code/Currency/Classes/home.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/dev/Documents/Code/Currency/Classes/homeViewController.xib
+s300399986.832605
+e300399987.326799
+r1
+xCompileXIB
+x/Users/dev/Documents/Code/Currency/Classes/homeViewController.xib
+lSLF07#2@41"CompileXIB Classes/homeViewController.xib300399986#300399987#0(0"0(0#0#65"/Users/dev/Documents/Code/Currency/Classes/homeViewController.xib8613185152#583"    cd /Users/dev/Documents/Code/Currency    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/homeViewController.nib /Users/dev/Documents/Code/Currency/Classes/homeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/dev/Documents/Code/Currency/Classes/result.xib
+r0
+
+CCompileXIB /Users/dev/Documents/Code/Currency/Classes/resultViewController.xib
+s300399986.833376
+e300399987.276603
+r1
+xCompileXIB
+x/Users/dev/Documents/Code/Currency/Classes/resultViewController.xib
+lSLF07#2@43"CompileXIB Classes/resultViewController.xib300399986#300399987#0(0"0(0#0#67"/Users/dev/Documents/Code/Currency/Classes/resultViewController.xib8606193792#587"    cd /Users/dev/Documents/Code/Currency    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/resultViewController.nib /Users/dev/Documents/Code/Currency/Classes/resultViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/dev/Documents/Code/Currency/FirstView.xib
+s299632252.502378
+e299632253.181111
+r1
+xCompileXIB
+x/Users/dev/Documents/Code/Currency/FirstView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@24"CompileXIB FirstView.xib299632252#299632253#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#48"/Users/dev/Documents/Code/Currency/FirstView.xib8602323360#557"    cd /Users/dev/Documents/Code/Currency    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/FirstView.nib /Users/dev/Documents/Code/Currency/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/dev/Documents/Code/Currency/MainWindow.xib
+s300399986.831754
+e300399987.301269
+r1
+xCompileXIB
+x/Users/dev/Documents/Code/Currency/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300399986#300399987#0(0"0(0#0#49"/Users/dev/Documents/Code/Currency/MainWindow.xib8612987904#559"    cd /Users/dev/Documents/Code/Currency    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/MainWindow.nib /Users/dev/Documents/Code/Currency/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/dev/Documents/Code/Currency/SecondView.xib
+s299632252.501817
+e299632253.180979
+r1
+xCompileXIB
+x/Users/dev/Documents/Code/Currency/SecondView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB SecondView.xib299632252#299632253#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#49"/Users/dev/Documents/Code/Currency/SecondView.xib8603503456#559"    cd /Users/dev/Documents/Code/Currency    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/SecondView.nib /Users/dev/Documents/Code/Currency/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCopyPlistFile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency-data.plist Currency-data.plist
+s300856872.195609
+e300856872.494755
+r1
+xCopyPlistFile
+x/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency-data.plist
+xCurrency-data.plist
+lSLF07#2@24"Copy Currency-data.plist300856872#300856872#0(0"0(0#0#54"/Users/dev/Documents/Code/Currency/Currency-data.plist8616812672#387"    cd /Users/dev/Documents/Code/Currency    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Currency-data.plist --outdir /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app0#
+
+CGenerateDSYMFile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app.dSYM /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency
+s300858447.599746
+e300858447.624194
+r1
+xGenerateDSYMFile
+x/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app.dSYM
+x/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Currency.app.dSYM build/Debug-iphonesimulator/Currency.app/Currency300858447#300858447#0(0"0(0#0#84"/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency8634701184#374"    cd /Users/dev/Documents/Code/Currency    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency -o /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app.dSYM0#
+
+CLd /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency normal i386
+s300858447.576634
+e300858447.599623
+r1
+xLd
+x/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency
+xnormal
+xi386
+lSLF07#2@89"Link /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency300858447#300858447#0(0"0(0#0#0"8635771008#885"    cd /Users/dev/Documents/Code/Currency    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -filelist /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Objects-normal/i386/Currency.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Currency0#
+
+CProcessInfoPlistFile /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Info.plist Currency-Info.plist
+s299632252.493141
+e299632252.501100
+r1
+xProcessInfoPlistFile
+x/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Info.plist
+xCurrency-Info.plist
+lSLF07#2@27"Process Currency-Info.plist299632252#299632252#0(0"0(0#0#54"/Users/dev/Documents/Code/Currency/Currency-Info.plist13229813538947188#470"    cd /Users/dev/Documents/Code/Currency    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Currency-Info.plist -genpkginfo /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app/Info.plist0#
+
+CProcessPCH /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch.gch Currency_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299632253.181229
+e299632254.137048
+r1
+xProcessPCH
+x/var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch.gch
+xCurrency_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Currency_Prefix.pch299632253#299632254#0(0"0(0#0#54"/Users/dev/Documents/Code/Currency/Currency_Prefix.pch8602491008#1772"    cd /Users/dev/Documents/Code/Currency    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-generated-files.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-own-target-headers.hmap -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-all-target-headers.hmap -iquote /Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/Currency-project-headers.hmap -F/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator -I/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/include -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources/i386 -I/Users/dev/Documents/Code/Currency/build/Currency.build/Debug-iphonesimulator/Currency.build/DerivedSources -c /Users/dev/Documents/Code/Currency/Currency_Prefix.pch -o /var/folders/6T/6TOoXS6JFWSbLdbcjTq95U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Currency_Prefix-faikcluejfnxlybkydqjmmhzuxgj/Currency_Prefix.pch.gch0#
+
+CTouch /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app
+s300858447.624272
+e300858447.626452
+r1
+xTouch
+x/Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app
+lSLF07#2@81"Touch /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app300858447#300858447#0(0"0(0#0#0"8633783488#271"    cd /Users/dev/Documents/Code/Currency    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dev/Documents/Code/Currency/build/Debug-iphonesimulator/Currency.app0#
+
